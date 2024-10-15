@@ -1,6 +1,6 @@
-# Loan-Default-Prediction-AiCore
+# Loan-Default-Prediction
 ## Summary
-A short set of taster sessions by AiCore. Machine learning using `sklearn` models used for loan repayment prediciton for the next month given the (defaulter) status of the previous 12 months. The best model found using `sklearn` predicition and metrics was found to be the `RandomForestCLassifier()` model.
+Machine learning using `sklearn` models used for loan repayment prediciton for the next month given the (defaulter) status of the previous 12 months. The best model found using `sklearn` predicition and metrics was found to be the `RandomForestCLassifier()` model.
 
 I completed this project independantly over a week with the guidance of the supervisor, during which we would break off into groups and also discuss our different solutions. I really enjoyed these sessions, and although it was challenging for me, I enjoyed the learning process!
 
